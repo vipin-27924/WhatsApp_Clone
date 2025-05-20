@@ -1,7 +1,5 @@
 package com.example.whatsappclone.presentation.bottomnavigation
 
-
-
 import androidx.compose.foundation.layout.Arrangement
 import com.example.whatsappclone.R
 import androidx.compose.foundation.layout.Column
